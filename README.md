@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ## Languages
 
-![Language Stats](./stats/leaderboard_by_weighted.png)
+![Language Stats](./stats/pie_by_weighted.png)
 
