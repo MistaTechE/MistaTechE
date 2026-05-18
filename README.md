@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MistaTechE&layout=compact)
-
-https://github-readme-stats.vercel.app/api?username=MistaTechE
+![Top Language](https://img.shields.io/github/languages/top/MistaTechE?style=flat-square)
 
