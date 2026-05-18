@@ -16,10 +16,11 @@ jobs:
       - uses: StefVuck/Github-Language-Stats@v1.2.0
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
-          visualization_types: "pie"
-          output_path: "stats"
-          include_forks: "true"
-          top_repos_count: "20"
+          visualization_types: 'leaderboard bar pie donut'
+          output_path: 'stats'
+          exclude_languages: ''
+          top_repos_count: '8'
+          commit_message: 'Update language statistics [skip ci]'
           
           
       - name: Commit generated files
