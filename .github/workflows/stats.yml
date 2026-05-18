@@ -18,10 +18,8 @@ jobs:
           github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "pie"
           output_path: "stats"
-          exclude_repos: "test-repo,old-project"
           include_forks: "true"
           top_repos_count: "20"
-          use_loc: "true"
           
           
       - name: Commit generated files
