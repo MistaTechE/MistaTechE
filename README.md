@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 ## Languages
 
 ![Language Stats](./language-stats/pie_by_weighted.png)
+![Language Stats](./language-stats/language-stats/bar_by_lines.png)
+
 
