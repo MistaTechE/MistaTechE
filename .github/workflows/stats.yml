@@ -22,7 +22,7 @@ jobs:
           include_forks: "true"
           exclude_languages: "HTML,CSS,Markdown"
           top_repos_count: "10"
-          dark_mode: "true"
+          dark_mode: "false"
           use_loc: "true"
           
           
