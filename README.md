@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ## Languages
 
-![Top Language](https://img.shields.io/github/languages/top/MistaTechE?style=flat-square)
+![Language Stats](stats/leaderboard_by_lines.png)
 
