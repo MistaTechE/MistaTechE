@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add stats
+          git add language-stats
           git commit -m "update language stats" || exit 0
           git push
